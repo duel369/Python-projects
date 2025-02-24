@@ -1,6 +1,6 @@
 # Python-projects
 
-To begin my journey with Python, I will be using pygame in hopes to keep my motivation going and understanding the fundamental concepts of python as I go.(2025/2/11)
+To begin my journey with Python, I will be using pygame in hopes to keep my motivation going and understanding the fundamental concepts of python as I go.(2025/2/11)</br>
 Recently I have built an interest is the extent of python programming capabilities, and how they can be implemented to real-life situations.(2025/2/24) 
 
 | Project Start Date 	| Project End Date 	| Last Modified Date 	| Project Name    	| Difficulty 	| Notes                                     	|
